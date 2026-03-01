@@ -1,7 +1,7 @@
 # Cat vs Dog Image Classifier 🐱🐶
 
-FreeCodeCamp *Machine Learning with Python* project.  
-Built using TensorFlow/Keras on the CIFAR-10 dataset.
+A Deep Learning based image classification project built using TensorFlow and Keras.
+This project trains a Convolutional Neural Network (CNN) to classify images of cats and dogs using the CIFAR-10 dataset. It demonstrates practical implementation of computer vision and deep learning concepts.
 
 ---
 
@@ -35,5 +35,9 @@ Built using TensorFlow/Keras on the CIFAR-10 dataset.
 
 ---
 
-## ✅ FreeCodeCamp
-This repo is my solution for the FCC *Cat and Dog Image Classifier* project.
+## Key Features
+
+- Image preprocessing and normalization
+- CNN model architecture implementation
+- Model training and evaluation
+- Visualization of training accuracy and loss
